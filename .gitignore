@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Generated audio and experiment outputs
+*.wav
+*.flac
+*.mp3
+*.ogg
+*.pt
+*.pth
+*.onnx
+*.npz
+*.npy
+thresholds.json
+experiment_*/
+run*/
+onnx_export/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

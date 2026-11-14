@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the VeilWave research manuscript and this software release."
+title: "VeilWave: Single-Microphone Audio Processing Research Prototype"
+version: 0.1.0
+date-released: 2026-11-14
+authors:
+  - family-names: Hazar
+    given-names: Guerida
