@@ -2,7 +2,7 @@
 
 **VeilWave** is an early-stage, single-microphone audio-processing research prototype associated with the manuscript:
 
-*VeilWave: An Adaptive Wearable Hearing System for Fabric, Wind, and Medical Environments.*
+*VeilWave: An Adaptive Audio-Processing Prototype for Hostile Acoustic Environments.*
 
 This repository is shared for code inspection, educational use, and further research. It is **not a validated hearing aid, medical device, or reproducible release of the manuscript's complete pilot-evaluation package**.
 
